@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_anasayfa"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Anasayfa" />
+
+    <item
+        android:id="@+id/item_arama"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Arama" />
+
+    <item
+        android:id="@+id/item_fotograf"
+        android:icon="@drawable/ic_add_a_photo_black_24dp"
+        android:title="Fotoğraf" />
+    <item
+        android:id="@+id/item_begeniler"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="Beğeniler" />
+
+    <item
+        android:id="@+id/item_profil"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="Profil" />
+
+</menu>

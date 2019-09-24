@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_anasayfa"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Anasayfa" />
+        <item
+            android:id="@+id/nav_haberler"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Haberler" />
+        <item
+            android:id="@+id/nav_iletisim"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="İletişim" />
+        <item
+            android:id="@+id/nav_ayarlar"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Ayarlar" />
+    </group>
+
+
+
+</menu>
